@@ -4,7 +4,7 @@
 - <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/coding.svg"> Software Engineering
 - <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/linux.svg"> Linux, Open Source
 - <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/maths.svg"> Mathematics
-- <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/maths.svg"> Physics
+- <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/science.svg"> Physics
 
 [<img align="left" alt="chyld | Github" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="chyld | YouTube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
