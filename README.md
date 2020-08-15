@@ -3,10 +3,10 @@
 - 🔮 Data Science, Machine Learning, AI
 - 🚀 Software Engineering
 - 🖥 Linux, Open Source
-- ➗ Mathematics
+- <img width="28px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/function.svg"> Mathematics
 - 🔭 Physics
 
-<div>Icons made by <a href="https://www.flaticon.com/free-icon/function_1774103" title="Vitaly Gorbachev">Vitaly Gorbachev</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
 
 
 [<img align="left" alt="chyld | Github" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
