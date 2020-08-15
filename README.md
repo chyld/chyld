@@ -1,7 +1,7 @@
 ### ✨ chyld ✨
 
 - 🔮 Data Science, Machine Learning, AI
-- 📛 Software Engineering
+- 🚀 Software Engineering
 - 🖥 Linux, Open Source
 - 🧮 Mathematics
 - 🔭 Physics
