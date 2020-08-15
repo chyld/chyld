@@ -1,6 +1,6 @@
 ### ✨ chyld ✨
 
-- <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/maths.svg"> Data Science, Machine Learning, AI
+- <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/axis.svg"> Data Science, Machine Learning, AI
 - <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/maths.svg"> Software Engineering
 - <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/maths.svg"> Linux, Open Source
 - <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/maths.svg"> Mathematics
