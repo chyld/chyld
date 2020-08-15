@@ -3,7 +3,7 @@
 - 🔮 Data Science, Machine Learning, AI
 - 🚀 Software Engineering
 - 🖥 Linux, Open Source
-- 🧮 Mathematics
+- ➗ Mathematics
 - 🔭 Physics
 
 [<img align="left" alt="chyld | Github" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
