@@ -6,6 +6,8 @@
 - <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/lambda.svg"> Mathematics
 - <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/science.svg"> Physics
 
+---
+
 [<img align="left" alt="chyld | Github" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="chyld | YouTube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="chyld | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
