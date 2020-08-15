@@ -1,10 +1,10 @@
 ### ✨ chyld ✨
 
-- <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/axis.svg"> Data Science, Machine Learning, AI
-- <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/coding.svg"> Software Engineering
-- <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/linux.svg"> Linux, Open Source
-- <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/lambda.svg"> Mathematics
-- <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/science.svg"> Physics
+- <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/axis.svg" /> Data Science, Machine Learning, AI
+- <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/coding.svg" /> Software Engineering
+- <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/linux.svg" /> Linux, Open Source
+- <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/lambda.svg" /> Mathematics
+- <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/science.svg" /> Physics
 
 ---
 
