@@ -1,4 +1,5 @@
 ![Profile](https://img.shields.io/static/v1?label=profile&message=chyld&color=blue&style=for-the-badge&logo=github)
+![Profile](https://img.shields.io/static/v1?label=position&message=principal+data+scientist&color=orange&style=for-the-badge&logo=github)
 
 - <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/axis.svg" /> Data Science, Machine Learning, AI
 - <img width="20px" src="https://raw.githubusercontent.com/chyld/chyld/master/icons/coding.svg" /> Software Engineering
