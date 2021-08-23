@@ -21,3 +21,4 @@
 [linkedin]: https://linkedin.com/in/chyld
 [instagram]: https://instagram.com/chyld
 [github]: https://github.com/chyld
+[website]: https://stackexchange.com/users/28654/chyld?tab=accounts
