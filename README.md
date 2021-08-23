@@ -14,6 +14,7 @@
 [<img align="left" alt="chyld | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="chyld | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="chyld | Github" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="chyld | StackExchange" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackexchange]
 
 [website]: https://chyld.github.io
 [twitter]: https://twitter.com/chyldmedford
@@ -21,4 +22,4 @@
 [linkedin]: https://linkedin.com/in/chyld
 [instagram]: https://instagram.com/chyld
 [github]: https://github.com/chyld
-[website]: https://stackexchange.com/users/28654/chyld?tab=accounts
+[stackexchange]: https://stackexchange.com/users/28654/chyld?tab=accounts
